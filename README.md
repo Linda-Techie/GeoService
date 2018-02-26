@@ -13,7 +13,7 @@ Thanks to the [Application Assembler Maven Plugin](http://www.mojohaus.org/appas
 ## Create the deployment package for any server (ie. Window, Linux) using Java JDK v1.8+ ##
 
 ### Pre-req (Mandatory) ###
-1. JDK/JRE v1.8+
+1. JDK v1.8+
 2. Google Developer API Key. You can get a Google Developer Acccount for free with limited API calls. https://developers.google.com/maps/documentation/javascript/get-api-key
 
 ### Build Deployment Package ###
